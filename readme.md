@@ -18,4 +18,10 @@
 
 ### Editing the nav menu
 
+### Editing the styles
+
+You should not need to edit the CSS. All of the stying is done using (tailwind)[https://tailwindcss.com/docs], and styles are added using the corresponding class names.
+
+<!-- TODO: more details around customising tailwind, example class names etc -->
+
 ## Deployment

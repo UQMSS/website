@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.4.0",
+    "fast-glob": "^3.2.5",
     "postcss-cli": "^8.3.1"
   }
 }
