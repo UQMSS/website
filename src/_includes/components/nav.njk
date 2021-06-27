@@ -1,12 +1,12 @@
 <div class="px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
-  <div class="relative flex items-center justify-between">
+  <div class="relative flex items-center justify-between flex-col md:flex-row">
     <a href="/" aria-label="MSS" title="MSS" class="inline-flex items-center">
 	  <img src="/assets/logo.png" class="w-10"/>
-      <span class="ml-2 text-xl font-bold tracking-wide text-gray-800 uppercase">MSS</span>
+      <!--- <span class="ml-2 text-xl font-bold tracking-wide text-gray-800 uppercase">MSS</span>--->
     </a>
-    <ul class="flex items-center hidden space-x-8 md:flex">
 
 
+    <ul class="flex items-center flex space-x-8 md:flex mt-10 md:mt-0">
 {%- for item in menu %}
       <li><a href="{{ item.link }}" title="{{ item.text }}" class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-red-400">{{ item.text }}</a></li>
 {%- endfor %}
@@ -14,3 +14,4 @@
     </div>
   </div>
 </div>
+
