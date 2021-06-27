@@ -6,9 +6,10 @@
     </a>
     <ul class="flex items-center hidden space-x-8 md:flex">
 
-	  {# To modify the items that appear in the menu, add or remove items from the list below. The href sets the URL of the of the link, and you will need to set the text twice. #}
 
-      <li><a href="https://mssuq.getqpay.com" title="Join" class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-red-400">Join</a></li>
+{%- for item in menu %}
+      <li><a href="{{ item.link }}" title="{{ item.text }}" class="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-red-400">{{ item.text }}</a></li>
+{%- endfor %}
     </ul>
     </div>
   </div>

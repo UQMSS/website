@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Matthew Low",
+		"title": "President",
+		"bio": "Hi, I'm Matthew, and I'm in my 3rd year of maths and computer science(majoring in statistics). I'm excited to run some fun events this year for the mathematics community!",
+		"photo": "matt.jpg"
+	},
+	{
+		"name": "Tom Cranitch",
+		"title": "Secretary",
+		"bio": "I'm finishing up my degree in maths and computer science at the end of 2021. I also like to spend my time cooking and coding.",
+		"photo": "tom.jpg"
+	},
+	{
+		"name": "Coen Jones",
+		"title": "Treasurer",
+		"bio": "I’m intending to complete an Honours in Mathematics in 2021, with an interest in applied statistics. In my spare time, I love to play chess, do karaoke and watch the mighty Brisbane Lions!",
+		"photo": "coen.jpg"
+	},
+	{
+		"name": "Finn Thompson",
+		"title": "Vice President",
+		"bio": "I'm currently studying honours in maths, and I love all things differential. When not doing maths (which is often), I enjoy reading and obsessively collecting fountain pens.",
+		"photo": "finn.jpg"
+	},
+	{
+		"name": "Christina Tang-Fujiwara",
+		"title": "President",
+		"bio": "I’ll be heading into my 2nd year of the Bachelor of Advanced Finance and Economics (Honours) in 2021.I have a strong passion for mathematics and the markets, and play social soccer in my spare time.",
+		"photo": "christina.jpg"
+	}
+]
