@@ -14,7 +14,7 @@
     "eleventy:serve": "eleventy --serve",
     "serve": "concurrently \"yarn css:serve\" \"yarn serve\"",
 	"css:build": "postcss src/css/styles.pcss --o src/css/_site/styles.css",
-    "build": "yarn eleventy && yarn css:build"
+    "build": "yarn css:build && yarn eleventy"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.4.0",
