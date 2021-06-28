@@ -11,8 +11,9 @@
   },
   "scripts": {
     "css:serve": "postcss src/css/styles.pcss --o src/css/_site/styles.css --watch",
-    "serve": "eleventy --serve",
-    "start": "concurrently \"yarn css:serve\" \"yarn serve\""
+    "eleventy:serve": "eleventy --serve",
+    "serve": "concurrently \"yarn css:serve\" \"yarn serve\"",
+    "build": "eleventy"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.4.0",
