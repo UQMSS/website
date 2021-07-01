@@ -24,4 +24,8 @@ You should not need to edit the CSS. All of the stying is done using (tailwind)[
 
 <!-- TODO: more details around customising tailwind, example class names etc -->
 
+#### Changing colours
+
 ## Deployment
+
+The project is deployed to *github pages* using *github actions*. This should run automatically when a new commit is pushed to `master`. To check the status of an action go to the actions tab (the logs here should detail where it got stuck).

@@ -13,7 +13,7 @@
     "css:serve": "postcss src/css/styles.pcss --o src/css/_site/styles.css --watch",
     "eleventy:serve": "eleventy --serve",
     "serve": "concurrently \"yarn css:serve\" \"yarn eleventy:serve\"",
-    "css:build": "postcss src/css/styles.pcss --o src/css/_site/styles.css",
+    "css:build": "TAILWIND_MODE=build postcss src/css/styles.pcss --o src/css/_site/styles.css",
     "build": "yarn css:build && yarn eleventy"
   },
   "dependencies": {
