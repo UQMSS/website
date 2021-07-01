@@ -19,7 +19,9 @@ async function imageShortcode(src, alt) {
 
 module.exports = function (config) {
 	config.addPassthroughCopy({
-		'src/css/_site/styles.css': './styles.css',
+		// 'src/css/_site/styles.css': './styles.css',
+		'node_modules/@fortawesome/fontawesome-free/css/all.css': './fa-all.css',
+		'node_modules/@fortawesome/fontawesome-free/webfonts': './webfonts',
 		'src/assets': './assets'
 	});
 

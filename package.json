@@ -10,7 +10,7 @@
     "tailwindcss": "^2.1.2"
   },
   "scripts": {
-    "css:serve": "postcss src/css/styles.pcss --o src/css/_site/styles.css --watch",
+    "css:serve": "postcss src/css/styles.pcss --o _site/styles.css --watch",
     "eleventy:serve": "eleventy --serve",
     "serve": "concurrently \"yarn css:serve\" \"yarn eleventy:serve\"",
     "css:build": "TAILWIND_MODE=build postcss src/css/styles.pcss --o _site/styles.css",
@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@11ty/eleventy-img": "^0.9.0",
+    "@fortawesome/fontawesome-free": "^5.15.3",
     "@tailwindcss/typography": "^0.4.0",
     "cssnano": "^5.0.6",
     "fast-glob": "^3.2.5",
