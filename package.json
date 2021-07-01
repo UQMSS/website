@@ -13,12 +13,13 @@
     "css:serve": "postcss src/css/styles.pcss --o src/css/_site/styles.css --watch",
     "eleventy:serve": "eleventy --serve",
     "serve": "concurrently \"yarn css:serve\" \"yarn eleventy:serve\"",
-    "css:build": "TAILWIND_MODE=build postcss src/css/styles.pcss --o src/css/_site/styles.css",
-    "build": "yarn css:build && yarn eleventy"
+    "css:build": "TAILWIND_MODE=build postcss src/css/styles.pcss --o ./styles.min.css",
+    "build": "yarn eleventy && yarn css:build"
   },
   "dependencies": {
     "@11ty/eleventy-img": "^0.9.0",
     "@tailwindcss/typography": "^0.4.0",
+    "cssnano": "^5.0.6",
     "fast-glob": "^3.2.5",
     "postcss-cli": "^8.3.1"
   }
