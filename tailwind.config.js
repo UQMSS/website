@@ -1,5 +1,6 @@
 const MSS_BLUE = '#5de2e7'
 
+
 module.exports = {
 	mode: "jit",
 	purge: [
