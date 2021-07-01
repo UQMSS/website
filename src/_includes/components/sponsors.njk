@@ -1,9 +1,9 @@
-<div class="max-w-2xl ml-10 mt-10">
+<div class="ml-10 mt-10">
 	<h2 class="text-5xl md:text-4xl font-bold mb-5">Sponsors</h2>
-	<p class="pr-5 mb-5 text-base text-gray-700">MSS is proudly sponsored by a range of industry sponsors. These sponsors provide access to a range of opportunities for our members, as well as the ability to hear directly from sponsors at our events. </p>
+	<p class="pr-5 mb-5 text-base text-gray-700 max-w-prose">MSS is proudly sponsored by a range of industry sponsors. These sponsors provide access to a range of opportunities for our members, as well as the ability to hear directly from sponsors at our events. </p>
 </div>
 <div class="flex flex-row flex-wrap justify-center items-center">
 	{%- for img in sponsors %}
-		<img src={{img}} alt="Sponsor Logo" class="w-1/5 m-5 max-w-xs">
+		<img src={{img}} alt="Sponsor Logo" class="w-1/5 m-5 max-w-sponsor">
 	{%- endfor %}
 </div>
