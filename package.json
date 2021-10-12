@@ -22,6 +22,7 @@
     "@tailwindcss/typography": "^0.4.0",
     "cssnano": "^5.0.6",
     "fast-glob": "^3.2.5",
+    "node-fetch": "^2.6.5",
     "postcss-cli": "^8.3.1"
   }
 }

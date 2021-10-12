@@ -24,6 +24,10 @@ You should not need to edit the CSS. All of the stying is done using (tailwind)[
 
 <!-- TODO: more details around customising tailwind, example class names etc -->
 
+### Events Calendar
+
+TODO: need to sue environemnt variable, automatically added during deploy
+
 #### Changing colours
 
 ## Deployment

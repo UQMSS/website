@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - master
+  schedule:
+    - cron '0 6,12,8 * * *'
       
 jobs:
   deploy:
@@ -16,6 +18,8 @@ jobs:
           node-version: '14.x'
       - run: yarn
       - run: yarn build
+        env:
+          FB_DEVELOPER_KEY: ${{ secrets.FB_DEVELOPER_KEY }}
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

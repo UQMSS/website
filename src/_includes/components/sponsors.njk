@@ -4,6 +4,7 @@
 </div>
 <div class="flex flex-row flex-wrap justify-center items-center">
 	{%- for img in sponsors %}
-		<img src={{img}} alt="Sponsor Logo" class="w-1/5 m-5 max-w-sponsor">
+		<!--- <img src={{img}} alt="Sponsor Logo" class="w-1/5 m-5 max-w-sponsor"> -->
+		{% Image img, "Sponsor Logo", "w-1/5 m-5 max-w-sponsor" %}
 	{%- endfor %}
 </div>

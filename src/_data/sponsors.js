@@ -7,6 +7,6 @@ module.exports = function () {
 	const fg = require('fast-glob');
 
 	// Run search for images in /gallery and /sponsors
-	const sponsorImages = fg.sync(['src/assets/sponsors/*']).map(path => path.replace(/^src\//, ''));
+	const sponsorImages = fg.sync(['src/assets/sponsors/*']);//.map(path => path.replace(/^src\//, ''));
 	return sponsorImages;
 }
