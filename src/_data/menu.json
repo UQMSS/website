@@ -8,6 +8,10 @@
 		"link": "/exec"
 	},
 	{
+		"text": "Connect",
+		"link": "/connect"
+	},
+	{
 		"text": "Join",
 		"link": "https://mssuq.getqpay.com/"
 	}
