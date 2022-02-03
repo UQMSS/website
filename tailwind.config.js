@@ -2,8 +2,7 @@ const MSS_BLUE = '#5de2e7'
 
 
 module.exports = {
-	mode: "jit",
-	purge: [
+	content: [
 		"./_site/**/*.html"
 	],
 	plugins: [
@@ -21,7 +20,7 @@ module.exports = {
 				DEFAULT: {
 					css: {
 						a: {
-							"&:hover": {
+							'&:hover': {
 								color: MSS_BLUE
 							}
 						}

@@ -3,7 +3,7 @@ title: 2021 Committee
 layout: base
 ---
 
-<div class="prose-std">
+<div class="prose lg:prose-lg m-8 md:m-12">
 	<h1>{{ title }}</h1>
 	<p>Meet the 2022 executive committee.</p>
 </div>
