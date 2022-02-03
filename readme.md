@@ -1,5 +1,14 @@
 # MSS Website
 
+## Common Operations
+
+### Changing committee
+
+ 1. Upload the photos for the new committee to `src/assets`. Remove any photos no longer needed.
+ 2. Edit `_data/committee.json` for the new comittee.
+
+## Chaning the sponsors
+
 ## Development
 
 ### Running Locally
@@ -29,6 +38,7 @@ You should not need to edit the CSS. All of the stying is done using (tailwind)[
 TODO: need to sue environemnt variable, automatically added during deploy
 
 #### Changing colours
+
 
 ## Deployment
 

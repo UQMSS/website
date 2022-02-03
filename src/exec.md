@@ -5,7 +5,7 @@ layout: base
 
 <div class="prose-std">
 	<h1>{{ title }}</h1>
-	<p>Meet the 2021 executive committee.</p>
+	<p>Meet the 2022 executive committee.</p>
 </div>
 
 <div class="flex flex-wrap justify-center left-0 w-screen">
