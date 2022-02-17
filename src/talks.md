@@ -3,7 +3,7 @@ title: Talks
 layout: main
 ---
 
-Below is a list of our recent talks. Math talks are typically held fortnightly in 78-442. For select talks, slides will be made available below. 
+Below is a list of our recent talks. Math talks are typically held fortnightly in building 67-442. For select talks, slides will be made available below. 
 
 ## 2021
 
