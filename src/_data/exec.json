@@ -1,32 +1,32 @@
 [
 	{
-		"name": "Matthew Low",
+		"name": "Emma Comino",
 		"title": "President",
-		"bio": "Hi, I'm Matthew, and I'm in my 3rd year of maths and computer science(majoring in statistics). I'm excited to run some fun events this year for the mathematics community!",
-		"photo": "matt.jpg"
+		"bio": "Hi all, I'm Emma. This year, I'll be working on my honours in applied maths. I am particularly excited to run some great events and bring our maths community closer together.",
+		"photo": "exec/emma.jpg"
 	},
 	{
-		"name": "Tom Cranitch",
+		"name": "Isaac Beh",
 		"title": "Secretary",
-		"bio": "I'm finishing up my degree in maths and computer science at the end of 2021. I also like to spend my time cooking and coding.",
-		"photo": "tom.jpg"
-	},
-	{
-		"name": "Coen Jones",
-		"title": "Treasurer",
-		"bio": "I’m intending to complete an Honours in Mathematics in 2021, with an interest in applied statistics. In my spare time, I love to play chess, do karaoke and watch the mighty Brisbane Lions!",
-		"photo": "coen.jpg"
-	},
-	{
-		"name": "Finn Thompson",
-		"title": "Vice President",
-		"bio": "I'm currently studying honours in maths, and I love all things differential. When not doing maths (which is often), I enjoy reading and obsessively collecting fountain pens.",
-		"photo": "finn.jpg"
+		"bio": "I am a second-year maths and science student, majoring in statistics and physics. I spend most of my free time baking, reading and hiking.",
+		"photo": "exec/isaac.jpg"
 	},
 	{
 		"name": "Christina Tang-Fujiwara",
+		"title": "Treasurer",
+		"bio": "I’ll be in my second year of a Bachelor of Mathematics & Commerce degree in 2022, majoring in data analytics and operations research. I enjoy following the markets and obsessing over international sport broadcasts (mainly tennis and volleyball).",
+		"photo": "exec/christina.jpg"
+	},
+	{
+		"name": "Julian Lee",
+		"title": "Vice President",
+		"bio": "Hey, I’m a mathematics and computer science student with a particular interest in data and cyber security. I also enjoy playing various sports competitively and socially.",
+		"photo": "exec/julian.jpg"
+	},
+	{
+		"name": "John Francis",
 		"title": "Industry Liaison",
 		"bio": "I’ll be heading into my 2nd year of the Bachelor of Advanced Finance and Economics (Honours) in 2021.I have a strong passion for mathematics and the markets, and play social soccer in my spare time.",
-		"photo": "christina.jpg"
+		"photo": "exec/john.jpg"
 	}
 ]
