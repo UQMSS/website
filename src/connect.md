@@ -3,7 +3,7 @@ title: Connect
 layout: main
 socials: 
   - name: Discord
-    link: 
+    link: https://discord.gg/6DZngy7
     description: Join to socialise with other math students!
     icon: discord
   - name: Facebook
