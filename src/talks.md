@@ -5,6 +5,51 @@ layout: main
 
 Below is a list of our recent talks. Math talks are typically held fortnightly in building 67-442. For select talks, slides will be made available below. 
 
+## 2022
+
+#### 16/09/2022 - Math Talks Week Twelve (Sem Two)
+ * ODEs and Integrable Models with Non Teerarat
+ * Prevalence of Lyapunov Spectrum Stability for Finite Blaschke Product Cocycles with Joshua Peters
+
+#### 16/09/2022 - Math Talks Week Eleven (Sem Two)
+ * [Surreal Games and The Fuzzy Consequences with Isaac Beh](https://github.com/49Indium/MathsTalk-CombinatorialGameTheory)
+ * An Introduction to Symmetric Functions with Lachlan McBeath
+
+#### 16/09/2022 - Math Talks Week Eight (Sem Two)
+ * Spring into Cellular Invasion with Joe Wilson
+ * [Homotopy Type Theory and the Future of Mathematics with Will Barnett](/assets/slides/2022/Homotopy-Type-Theory-Will-Barnett.pdf)
+
+#### 02/09/2022 - Math Talks (with AIML) Week Six (Sem Two)
+ * Why Play Nice? Evolutionary Game Theory for Modelling Human Interactions with Daniel Gray
+ * Statistical Inference on Random Networks with Joydip Choudhury
+
+#### 26/08/2022 - Math Talks Week Five (Sem Two)
+ * Extensions of Pick's Theorem with Tara Kemp
+ * An Unexpected Equivalence from a Silly Cross Product Puzzle with Max Orchard
+
+#### 05/08/2022 - Math Talks Week Two (Sem Two)
+ * Hopf Algebras, Braidings and Quantum Field Theory with Arwen Nugteren
+ * The Bizarrity of Constructive Mathematics with Mitchell Ryan
+#### 20/05/2022 - Math and CS Talks Week Eleven (Sem One)
+ * Writing Code Without Writing Code with Thomas Malcolm
+ * Paving Paradise More Efficiently - Designing Parking Lots with IP with Mitch Harris
+
+#### 06/05/2022 - Math Talks Week Nine (Sem One)
+ * Quaternion Algebras and Quantum Cryptography with Nick Rohland
+ * Gray Codes, the Towers of Hanoi, and Coxeter Groups with James Dann
+
+#### 01/04/2022 - Math Talks (with AIML) Week Five (Sem One)
+ * An Introduction to Gaussian Processes - A Machine Learning Approach to Time Series Prediction with Michael CC
+ * Supervised Learning without Supervision for Cyber-Attack Detection with Jonathan Wilton
+
+#### 18/03/2022 - Math Talks Week Three (Sem One)
+ * Modular Melodies, Ridiculous Rhythms, and Chaotic Compositions with Rhauidi Burke
+ * Feeling risky? A risk analysis of Risk with Montana Wickens
+
+#### 04/03/2022 - Math Talks Week Two (Sem One)
+ * Wendel's Theorem: When Does a Shape Contain the Origin with Adam Thompson
+ * How to Schedule Things, or Just how to Schedule with Liam Timms
+
 ## 2021
 
 #### 22/10/2021 - Math and CS Talks Week Twelve (Sem Two)
