@@ -14,11 +14,11 @@ socials:
 
 MSS exists for its members. We hold a range of events for anyone studying or interested in maths. You can connect with us on our socials below.
 
-<div class="flex flex-wrap justify-center left-0 w-screen">
+<div class="flex flex-wrap justify-center left-0 w-full">
 {%- for item in socials %}
-  <a href="{{ item.link }}" class="w-1/3 md:w-1/4 lg:w-1/6 mx-4 overflow-hidden bg-white rounded-lg shadow-lg !no-underline">
+  <a href="{{ item.link }}" class="w-64 px-4 m-4 overflow-hidden bg-white rounded-lg shadow-lg !no-underline">
   	<div class="text-8xl text-center p-10 text-mss-blue">
-		<i class="fab fa-{{ item.icon }} w-full text-[100px]"></i>
+		<i class="fab fa-{{ item.icon }} text-[100px]"></i>
 	</div>
     <div class="py-5 text-center">
       <span class="block text-2xl font-bold text-gray-800">{{ item.name }}</span>
