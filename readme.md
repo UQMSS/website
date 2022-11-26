@@ -27,18 +27,11 @@ Edit `src/_data/menu.json`. Note that links can be relative (e.g. `/talks` point
  6. Navigate to `localhost:8080` and the website should be displayed!
 
 
-### Adding a page
-
-### Editing the home page
-
-
 ### Editing the styles
 
 You should not need to edit the CSS. All of the stying is done using [tailwind](https://tailwindcss.com/docs), and styles are added using the corresponding class names.
 
 <!-- TODO: more details around customising tailwind, example class names etc -->
-
-#### Changing colours
 
 
 ## Deployment

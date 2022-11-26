@@ -1,11 +1,11 @@
 ---
-title: 2021 Committee
+title: 2023 Committee
 layout: base
 ---
 
 <div class="prose lg:prose-lg m-8 md:m-12">
 	<h1>{{ title }}</h1>
-	<p>Meet the 2022 executive committee.</p>
+	<p>Meet the 2023 executive committee.</p>
 </div>
 
 <div class="flex flex-wrap justify-center left-0 w-screen">
