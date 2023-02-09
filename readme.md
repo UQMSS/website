@@ -5,15 +5,15 @@
 ### Changing committee
 
  1. Upload the photos for the new committee to `src/assets`. Remove any photos no longer needed.
- 2. Edit `_data/committee.json` for the new comittee.
+ 2. Edit `_data/committee.json` for the new committee.
 
-## Chaning the sponsors
+## Changing the sponsors
 
-To change the sponsors, just update the logos in `src/assets/sponors`. Note that the order they appear on the page is alphabetical by file name, so if a particular order is required the files could be numbered.
+To change the sponsors, just update the logos in `src/assets/sponsors`. Note that the order they appear on the page is alphabetical by file name, so if a particular order is required the files could be numbered.
 
 ### Editing the nav menu
 
-Edit `src/_data/menu.json`. Note that links can be relative (e.g. `/talks` points to `uqmss.org/talks`) or absolute (e.g. `https://mssuq.getqpay.com`). If linking to another page on the mss website the link should be relative.
+Edit `src/_data/menu.json`. Note that links can be relative (e.g. `/talks` points to `uqmss.org/talks`) or absolute (e.g. `https://mssuq.getqpay.com`). If linking to another page on the MSS website the link should be relative.
 
 ## Development
 
@@ -29,7 +29,7 @@ Edit `src/_data/menu.json`. Note that links can be relative (e.g. `/talks` point
 
 ### Editing the styles
 
-You should not need to edit the CSS. All of the stying is done using [tailwind](https://tailwindcss.com/docs), and styles are added using the corresponding class names.
+You should not need to edit the CSS. All of the styling is done using [tailwind](https://tailwindcss.com/docs), and styles are added using the corresponding class names.
 
 <!-- TODO: more details around customising tailwind, example class names etc -->
 
