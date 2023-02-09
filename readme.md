@@ -5,7 +5,7 @@
 ### Changing committee
 
  1. Upload the photos for the new committee to `src/assets`. Remove any photos no longer needed.
- 2. Edit `_data/committee.json` for the new committee.
+ 2. Edit `_data/exec.json` for the new committee.
 
 ## Changing the sponsors
 
