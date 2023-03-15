@@ -5,13 +5,19 @@ layout: main
 
 Below is a list of our recent talks. Math talks are typically held fortnightly in building 67-442. For select talks, slides will be made available below. 
 
+## 2023
+
+#### 03/03/2023 - Maths Talks Week Two (Sem One)
+ * [Hyperplane Arrangements: A Link Between Combinatorics and Topology with Declan Fletcher](/assets/slides/2023/wk2_declan_fletcher.pdf)
+ * [How Big Do Numbers Get? with Will Barnett](/assets/slides/2023/wk2_will_barnett.pdf)
+
 ## 2022
 
-#### 16/09/2022 - Math Talks Week Twelve (Sem Two)
+#### 21/10/2022 - Math Talks Week Twelve (Sem Two)
  * ODEs and Integrable Models with Non Teerarat
  * Prevalence of Lyapunov Spectrum Stability for Finite Blaschke Product Cocycles with Joshua Peters
 
-#### 16/09/2022 - Math Talks Week Eleven (Sem Two)
+#### 14/10/2022 - Math Talks Week Eleven (Sem Two)
  * [Surreal Games and The Fuzzy Consequences with Isaac Beh](https://github.com/49Indium/MathsTalk-CombinatorialGameTheory)
  * An Introduction to Symmetric Functions with Lachlan McBeath
 
