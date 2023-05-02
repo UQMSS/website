@@ -7,6 +7,14 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 
 ## 2023
 
+#### 28/04/2023 - Maths Talks Week Nine (Sem One)
+ * [Self-Similarity via Attractors with Gabriel Field](/assets/slides/2023/wk9_gabriel_field.pdf)
+ * [An Introduction to the Probabilistic Method with Isaac Beh](https://github.com/49Indium/MathsTalk-ProbabilisticMethod)
+
+#### 24/03/2023 - Maths Talks Week Five (Sem One)
+ * [An Introduction to Supergeometry with Ben Kruger](/assets/slides/2023/wk5_ben_kruger.pdf)
+ * Chaotic Systems: Why Being Late Isn’t My Fault with Ben Varley
+
 #### 03/03/2023 - Maths Talks Week Two (Sem One)
  * [Hyperplane Arrangements: A Link Between Combinatorics and Topology with Declan Fletcher](/assets/slides/2023/wk2_declan_fletcher.pdf)
  * [How Big Do Numbers Get? with Will Barnett](/assets/slides/2023/wk2_will_barnett.pdf)
