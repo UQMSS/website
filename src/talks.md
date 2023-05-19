@@ -7,6 +7,14 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 
 ## 2023
 
+#### 12/05/2023 - Maths Talks Week Twelve (Sem One)
+ * [Exploring the Rubik's Cube with Group Theory with Adriel Efendy & Benjamin Paul](/assets/slides/2023/wk12_adriel_efendy_benjamin_paul.pdf)
+ * How to Lose the Lotto (& Other Useful Applications of Design Theory) with Mikayla Staples
+
+#### 12/05/2023 - Maths Talks Week Eleven (Sem One)
+ * The Ghost Algebra with Madeline Nurcombe
+ * [Catalan Numbers — Counting in Heart-Turtle Language with Ella Wang](/assets/slides/2023/wk11_ella_wang.pdf)
+
 #### 28/04/2023 - Maths Talks Week Nine (Sem One)
  * [Self-Similarity via Attractors with Gabriel Field](/assets/slides/2023/wk9_gabriel_field.pdf)
  * [An Introduction to the Probabilistic Method with Isaac Beh](https://github.com/49Indium/MathsTalk-ProbabilisticMethod)
