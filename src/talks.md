@@ -12,7 +12,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
  * How to Lose the Lotto (& Other Useful Applications of Design Theory) with Mikayla Staples
 
 #### 12/05/2023 - Maths Talks Week Eleven (Sem One)
- * The Ghost Algebra with Madeline Nurcombe
+ * [The Ghost Algebra with Madeline Nurcombe](/assets/slides/2023/wk11_madeline_nurcombe.pdf)
  * [Catalan Numbers — Counting in Heart-Turtle Language with Ella Wang](/assets/slides/2023/wk11_ella_wang.pdf)
 
 #### 28/04/2023 - Maths Talks Week Nine (Sem One)
