@@ -1,32 +1,32 @@
 [
 	{
-		"name": "Isaac Beh",
+		"name": "Will Barnett",
 		"title": "President",
-		"bio": "Hello, I'm Isaac. I am a third-year maths and science student, majoring in statistics and physics. I particularly like the thrill of finding a insightful solution to a problem. I spend most of my free time baking, reading and hiking.",
+		"bio": "Hi, I'm Will. I'm in my fourth and final year of a degree in Mathematics and Computer Science. If you want to learn about homotopy type theory, come talk to me!",
+		"photo": "exec/will.jpg"
+	},
+	{
+		"name": "Isaac Beh",
+		"title": "Secretary",
+		"bio": "Hello, I'm Isaac. I am a third-year maths and science student, majoring in statistics and physics. I particularly like the thrill of finding a insightful solution to a problem and finding cool counter-examples. I spend most of my free time baking, reading and hiking.",
 		"photo": "exec/isaac.jpg"
 	},
 	{
+		"name": "Caleb Coleman",
+		"title": "Treasurer",
+		"bio": "Hi I'm Caleb, a 4th year student at UQ studying physics. I enjoy playing videogames, playing guitar and going swimming in the evening.",
+		"photo": "exec/caleb.jpg"
+	},
+	{
 		"name": "Max Orchard",
-		"title": "Secretary",
-		"bio": "Hi, I'm Max. I have just completed honours in mathematics, and I will be starting a postgrad research degree in July. I also enjoy softball and touch football, and also a little bit of hobby programming.",
+		"title": "Vice President",
+		"bio": "Hi, I'm Max and I'm a first-year PhD student in mathematics. I enjoy softball, and also a little bit of hobby programming here and there. I don't enjoy when the vendo's cooling isn't working :(",
 		"photo": "exec/max.jpg"
 	},
 	{
-		"name": "Ben Varley",
-		"title": "Treasurer",
-		"bio": "Howdy, I'm Ben. I'm a third year maths and computer science student with an interest in numerical methods and using maths to design software. In my spare time I'm an avid cook, reader and ancient history fan.",
-		"photo": "exec/ben.png"
-	},
-	{
-		"name": "Wendi Hao",
-		"title": "Vice President",
-		"bio": "Heya, I’m Wendi. I’m a electrical engineering student who loves the different applications of math and statistics. I love sports and participate almost all of them, from basketball to cheerleading.",
-		"photo": "exec/wendi.png"
-	},
-	{
-		"name": "Limao Chang",
+		"name": "Connor Tweedie",
 		"title": "Industry Liaison",
-		"bio": "Hello, I'm Limao. I'm a third year mathematics and computer science student, and I'm interested in the applications of software to mathematics, especially statistics. I also love soccer, track and field, and going to the gym.",
-		"photo": "exec/limao.jpg"
+		"bio": "Hi, I'm Connor. I'm a 4th year physics student and I especially enjoy solving complex systems computationally. When not studying I like to play bass guitar, write music, and watch birds in my backyard.",
+		"photo": "exec/connor.png"
 	}
 ]

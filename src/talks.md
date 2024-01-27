@@ -7,6 +7,18 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 
 ## 2023
 
+#### 27/10/2023 - Maths Talks Week Thirteen (Sem Two)
+ * [Yes, It Can (Theoretically) Run Doom — Magic: The Gathering is Turing Complete with Max Orchard](/assets/slides/2023/wk13_max_orchard.pdf)
+ * Shadows and Shadows with Bailey Whitbread
+
+#### 20/10/2023 - Maths Talks Week Twelve (Sem Two)
+ * Spiking Neurons and Stable Nodes: The Reliability of ODEs with Applications to Neuron Firing with Tappy Alister
+ * Dynamic Programming in the NFL with Matthew Bungate
+
+#### 18/08/2023 - Maths Talks Week Four (Sem Two)
+ * Groups and Shadows with Bailey Whitbread
+ * How to Integrate over a Fractal with Gabriel Field
+
 #### 12/05/2023 - Maths Talks Week Twelve (Sem One)
  * [Exploring the Rubik's Cube with Group Theory with Adriel Efendy & Benjamin Paul](/assets/slides/2023/wk12_adriel_efendy_benjamin_paul.pdf)
  * How to Lose the Lotto (& Other Useful Applications of Design Theory) with Mikayla Staples
