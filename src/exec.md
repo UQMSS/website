@@ -1,5 +1,5 @@
 ---
-title: 2023 Committee
+title: 2024 Committee
 layout: base
 ---
 
