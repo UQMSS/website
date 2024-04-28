@@ -70,7 +70,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 
 #### 06/05/2022 - Math Talks Week Nine (Sem One)
  * Quaternion Algebras and Quantum Cryptography with Nick Rohland
- * [Gray Codes, the Towers of Hanoi, and Coxeter Groups with James Dann](/assets/slides/2022/Hanoi-James-Dann.pdf)
+ * [Gray Codes, the Towers of Hanoi, and Coxeter Groups with Zoe Dann](/assets/slides/2022/Hanoi-Zoe-Dann.pdf)
 
 #### 01/04/2022 - Math Talks (with AIML) Week Five (Sem One)
  * An Introduction to Gaussian Processes - A Machine Learning Approach to Time Series Prediction with Michael CC
@@ -95,7 +95,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
  * [Fun with Diagram Algebras with Madeline Nurcombe](/assets/slides/2021/Fun-With-Diagram-Algebras-Madeline-Nurcombe.pdf)
 
 #### 03/09/2021 - Math and CS Talks Week Six (Sem Two)
- * [Design of Experiments with James Dann](/assets/slides/2021/Design-Theory-James-Dann.pdf)
+ * [Design of Experiments with Zoe Dann](/assets/slides/2021/Design-Theory-Zoe-Dann.pdf)
  * Surface Evolver, or: How I Learned to Stop Worrying and Approximate Minimal Surfaces with Finn Thompson
 
 #### 14/05/2021 - Math and CS Talks Week Eleven (Sem One)
