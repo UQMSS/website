@@ -16,7 +16,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
  * The Mercator Projection with Henry Wood
 
 #### 16/08/2023 - Maths Talks Week Four (Sem Two)
- * Simple Simplicial Sets with Joel Richardson
+ * [Simple Simplicial Sets with Joel Richardson](/assets/slides/2024/wk4_joel_richardson.pdf)
  * [Extreme Value Theory in Dynamical Systems with Leanna Salve](/assets/slides/2024/wk4_leanna_salve.pptx)
 
 #### 02/08/2023 - Maths Talks Week Two (Sem Two)
@@ -24,8 +24,8 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
  * Hensel's Analogy and the p-adic Numbers with Declan Fletcher
 
 #### 26/04/2023 - Maths Talks Week Nine (Sem One)
- * Finding Factors in Berlekamp's Algebra with Joel Richardson
- * Homotopy Type Theory 2: Electric Boogalo with Will Barnett
+ * [Finding Factors in Berlekamp's Algebra with Joel Richardson](/assets/slides/2024/wk9_joel_richardson.pdf)
+ * [Homotopy Type Theory 2: Electric Boogalo with Will Barnett](/assets/slides/2024/wk9_will_barnett.pdf)
 
 #### 22/03/2023 - Maths Talks Week Five (Sem One)
  * How to use Desmos as a Programming Language with Tobey Blomfield
