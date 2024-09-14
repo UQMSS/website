@@ -5,6 +5,36 @@ layout: main
 
 Below is a list of our recent talks. Math talks are typically held fortnightly in building 67-442. For select talks, slides will be made available below. 
 
+## 2024
+
+#### 13/09/2023 - Maths Talks Week Eight (Sem Two)
+ * Isometries of the Hyperbolic Plane with Joseph Kwong
+ * Benders Decomposition with Ben Varley
+
+#### 30/08/2023 - Maths Talks Week Six (Sem Two)
+ * Guaranteed Performance Under Uncertainty: An Overview of Robust Control with Adriel Efendy
+ * The Mercator Projection with Henry Wood
+
+#### 16/08/2023 - Maths Talks Week Four (Sem Two)
+ * Simple Simplicial Sets with Joel Richardson
+ * Extreme Value Theory in Dynamical Systems with Leanna Salve
+
+#### 02/08/2023 - Maths Talks Week Two (Sem Two)
+ * The Universal Presence of Category Theory with Gabriel Field
+ * Hensel's Analogy and the p-adic Numbers with Declan Fletcher
+
+#### 26/04/2023 - Maths Talks Week Nine (Sem One)
+ * Finding Factors in Berlekamp's Algebra with Joel Richardson
+ * Homotopy Type Theory 2: Electric Boogalo with Will Barnett
+
+#### 22/03/2023 - Maths Talks Week Five (Sem One)
+ * How to use Desmos as a Programming Language with Tobey Blomfield
+ * Everyone is wrong about Gödel's Incompleteness Theorems with Mitchell Ryan
+
+#### 08/03/2023 - Maths Talks Week Three (Sem One)
+ * Skill-Based Matchmaking with Bayesian Inference with Nazeef Hamid
+ * Symbolic Integration in Computer Algebra with Mitchel Holt
+
 ## 2023
 
 #### 27/10/2023 - Maths Talks Week Thirteen (Sem Two)
