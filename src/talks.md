@@ -20,7 +20,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
  * [Extreme Value Theory in Dynamical Systems with Leanna Salve](/assets/slides/2024/wk4_leanna_salve.pptx)
 
 #### 02/08/2023 - Maths Talks Week Two (Sem Two)
- * The Universal Presence of Category Theory with Gabriel Field
+ * [The Universal Presence of Category Theory with Gabriel Field](/assets/slides/2024/wk2_gabriel_field.pdf)
  * Hensel's Analogy and the p-adic Numbers with Declan Fletcher
 
 #### 26/04/2023 - Maths Talks Week Nine (Sem One)
