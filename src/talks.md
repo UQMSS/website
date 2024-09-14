@@ -9,7 +9,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 
 #### 13/09/2023 - Maths Talks Week Eight (Sem Two)
  * Isometries of the Hyperbolic Plane with Joseph Kwong
- * Benders Decomposition with Ben Varley
+ * [Benders Decomposition with Ben Varley](/assets/slides/2024/wk8_ben_varley.pdf)
 
 #### 30/08/2023 - Maths Talks Week Six (Sem Two)
  * Guaranteed Performance Under Uncertainty: An Overview of Robust Control with Adriel Efendy
@@ -17,7 +17,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 
 #### 16/08/2023 - Maths Talks Week Four (Sem Two)
  * Simple Simplicial Sets with Joel Richardson
- * Extreme Value Theory in Dynamical Systems with Leanna Salve
+ * [Extreme Value Theory in Dynamical Systems with Leanna Salve](/assets/slides/2024/wk4_leanna_salve.pptx)
 
 #### 02/08/2023 - Maths Talks Week Two (Sem Two)
  * The Universal Presence of Category Theory with Gabriel Field
@@ -32,7 +32,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
  * Everyone is wrong about Gödel's Incompleteness Theorems with Mitchell Ryan
 
 #### 08/03/2023 - Maths Talks Week Three (Sem One)
- * Skill-Based Matchmaking with Bayesian Inference with Nazeef Hamid
+ * [Skill-Based Matchmaking with Bayesian Inference with Nazeef Hamid](/assets/slides/2024/wk3_nazeef_hamid.pdf)
  * Symbolic Integration in Computer Algebra with Mitchel Holt
 
 ## 2023
@@ -63,7 +63,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 
 #### 24/03/2023 - Maths Talks Week Five (Sem One)
  * [An Introduction to Supergeometry with Ben Kruger](/assets/slides/2023/wk5_ben_kruger.pdf)
- * Chaotic Systems: Why Being Late Isn’t My Fault with Ben Varley
+ * [Chaotic Systems: Why Being Late Isn’t My Fault with Ben Varley](/assets/slides/2023/wk5_ben_varley.pdf)
 
 #### 03/03/2023 - Maths Talks Week Two (Sem One)
  * [Hyperplane Arrangements: A Link Between Combinatorics and Topology with Declan Fletcher](/assets/slides/2023/wk2_declan_fletcher.pdf)
