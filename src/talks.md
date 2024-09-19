@@ -13,7 +13,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 
 #### 30/08/2023 - Maths Talks Week Six (Sem Two)
  * Guaranteed Performance Under Uncertainty: An Overview of Robust Control with Adriel Efendy
- * The Mercator Projection with Henry Wood
+ * [The Mercator Projection with Henry Wood](/assets/slides/2024/wk6_henry_wood.pdf)
 
 #### 16/08/2023 - Maths Talks Week Four (Sem Two)
  * [Simple Simplicial Sets with Joel Richardson](/assets/slides/2024/wk4_joel_richardson.pdf)
