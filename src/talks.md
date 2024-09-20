@@ -21,7 +21,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 
 #### 02/08/2023 - Maths Talks Week Two (Sem Two)
  * [The Universal Presence of Category Theory with Gabriel Field](/assets/slides/2024/wk2_gabriel_field.pdf)
- * Hensel's Analogy and the p-adic Numbers with Declan Fletcher
+ * [Hensel's Analogy and the p-adic Numbers with Declan Fletcher](/assets/slides/2024/wk2_declan_fletcher.pdf)
 
 #### 26/04/2023 - Maths Talks Week Nine (Sem One)
  * [Finding Factors in Berlekamp's Algebra with Joel Richardson](/assets/slides/2024/wk9_joel_richardson.pdf)
