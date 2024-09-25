@@ -12,7 +12,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
  * [Benders Decomposition with Ben Varley](/assets/slides/2024/wk8_ben_varley.pdf)
 
 #### 30/08/2023 - Maths Talks Week Six (Sem Two)
- * Guaranteed Performance Under Uncertainty: An Overview of Robust Control with Adriel Efendy
+ * [Guaranteed Performance Under Uncertainty: An Overview of Robust Control with Adriel Efendy](/assets/slides/2024/wk6_adriel_efendy.pdf)
  * [The Mercator Projection with Henry Wood](/assets/slides/2024/wk6_henry_wood.pdf)
 
 #### 16/08/2023 - Maths Talks Week Four (Sem Two)
