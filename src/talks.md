@@ -140,6 +140,6 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
  * Convex Hulls of Graphs of Multi-linear Functions with Mitchell Harris
  * All Tied Up: From Strings to Knots with Rhuaidi Burke
 
-#### 05/03/20201 - Maths Talks Week Two (Sem One)
+#### 05/03/2021 - Maths Talks Week Two (Sem One)
  * [Kinky Sets with Bailey Whitbread](/assets/slides/2021/Kinky-Sets-Bailey-Whitbread.pdf)
  * [Quantum Theory on a Shoestring with Lawrence Lo](/assets/slides/2021/Quantum-Theory-in-a-Shoe-String-Lawrence-Lo.pdf)
