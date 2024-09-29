@@ -7,31 +7,31 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 
 ## 2024
 
-#### 13/09/2023 - Maths Talks Week Eight (Sem Two)
+#### 13/09/2024 - Maths Talks Week Eight (Sem Two)
  * Isometries of the Hyperbolic Plane with Joseph Kwong
  * [Benders Decomposition with Ben Varley](/assets/slides/2024/wk8_ben_varley.pdf)
 
-#### 30/08/2023 - Maths Talks Week Six (Sem Two)
+#### 30/08/2024 - Maths Talks Week Six (Sem Two)
  * [Guaranteed Performance Under Uncertainty: An Overview of Robust Control with Adriel Efendy](/assets/slides/2024/wk6_adriel_efendy.pdf)
  * [The Mercator Projection with Henry Wood](/assets/slides/2024/wk6_henry_wood.pdf)
 
-#### 16/08/2023 - Maths Talks Week Four (Sem Two)
+#### 16/08/2024 - Maths Talks Week Four (Sem Two)
  * [Simple Simplicial Sets with Joel Richardson](/assets/slides/2024/wk4_joel_richardson.pdf)
  * [Extreme Value Theory in Dynamical Systems with Leanna Salve](/assets/slides/2024/wk4_leanna_salve.pptx)
 
-#### 02/08/2023 - Maths Talks Week Two (Sem Two)
+#### 02/08/2024 - Maths Talks Week Two (Sem Two)
  * [The Universal Presence of Category Theory with Gabriel Field](/assets/slides/2024/wk2_gabriel_field.pdf)
  * [Hensel's Analogy and the p-adic Numbers with Declan Fletcher](/assets/slides/2024/wk2_declan_fletcher.pdf)
 
-#### 26/04/2023 - Maths Talks Week Nine (Sem One)
+#### 26/04/2024 - Maths Talks Week Nine (Sem One)
  * [Finding Factors in Berlekamp's Algebra with Joel Richardson](/assets/slides/2024/wk9_joel_richardson.pdf)
  * [Homotopy Type Theory 2: Electric Boogalo with Will Barnett](/assets/slides/2024/wk9_will_barnett.pdf)
 
-#### 22/03/2023 - Maths Talks Week Five (Sem One)
+#### 22/03/2024 - Maths Talks Week Five (Sem One)
  * How to use Desmos as a Programming Language with Tobey Blomfield
  * Everyone is wrong about Gödel's Incompleteness Theorems with Mitchell Ryan
 
-#### 08/03/2023 - Maths Talks Week Three (Sem One)
+#### 08/03/2024 - Maths Talks Week Three (Sem One)
  * [Skill-Based Matchmaking with Bayesian Inference with Nazeef Hamid](/assets/slides/2024/wk3_nazeef_hamid.pdf)
  * Symbolic Integration in Computer Algebra with Mitchel Holt
 
