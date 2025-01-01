@@ -1,21 +1,21 @@
 [
 	{
-		"name": "Will Barnett",
+		"name": "Tobey Blomfield",
 		"title": "President",
-		"bio": "Hi, I'm Will. I'm in my fourth and final year of a degree in Mathematics and Computer Science. If you want to learn about homotopy type theory, come talk to me!",
-		"photo": "exec/will.jpg"
+		"bio": "Hi, I'm Tobey. I'm in my second year of a Bachelor of Maths, majoring in pure mathematics. I love learning more maths, and I always like a nice proof or counter example. I'm also known for (and quite enjoy) pushing Desmos to it's limits.",
+		"photo": "exec/tobey.jpg"
 	},
 	{
-		"name": "Isaac Beh",
+		"name": "Ben Varley",
 		"title": "Secretary",
-		"bio": "Hello, I'm Isaac. I am a third-year maths and science student, majoring in statistics and physics. I particularly like the thrill of finding a insightful solution to a problem and finding cool counter-examples. I spend most of my free time baking, reading and hiking.",
-		"photo": "exec/isaac.jpg"
+		"bio": "Hi, I'm Ben! I'm a fifth year Maths and Computer Science student with a focus on Applied Mathematics and Operations Research. I love cooking and playing board games with my free time.",
+		"photo": "exec/ben.jpg"
 	},
 	{
-		"name": "Caleb Coleman",
+		"name": "Jasper Chong",
 		"title": "Treasurer",
-		"bio": "Hi I'm Caleb, a 4th year student at UQ studying physics. I enjoy playing videogames, playing guitar and going swimming in the evening.",
-		"photo": "exec/caleb.jpg"
+		"bio": "Hi I'm Jasper, a second year engineering and mathematics student with a focus on software and statistics. I really enjoy seeing all of the applications of mathematical modelling and prediction!",
+		"photo": "exec/jasper.jpg"
 	},
 	{
 		"name": "Max Orchard",
@@ -24,9 +24,9 @@
 		"photo": "exec/max.jpg"
 	},
 	{
-		"name": "Connor Tweedie",
+		"name": "Wolski",
 		"title": "Industry Liaison",
-		"bio": "Hi, I'm Connor. I'm a 4th year physics student and I especially enjoy solving complex systems computationally. When not studying I like to play bass guitar, write music, and watch birds in my backyard.",
-		"photo": "exec/connor.png"
+		"bio": "Hi, I'm Wolski. I'm a 4th year maths and physics student with a particular focus on algebra, and a public love of Zorn's Lemma. In my off time, I like to cook, read, write music and play tabletop games of all varieties.",
+		"photo": "exec/wolski.jpg"
 	}
 ]
