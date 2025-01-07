@@ -6,6 +6,7 @@
 
  1. Upload the photos for the new committee to `src/assets`. Remove any photos no longer needed.
  2. Edit `_data/exec.json` for the new committee.
+ 3. Edit `exec.md` to change the displayed committee year in lines `2` and `8`
 
 ## Changing the sponsors
 
