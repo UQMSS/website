@@ -5,6 +5,40 @@ layout: main
 
 Below is a list of our recent talks. Math talks are typically held fortnightly in building 67-442. For select talks, slides will be made available below. 
 
+## 2025
+
+#### 12/09/2025 - Maths Talks Week Seven (Sem Two)
+* Building the Mandelbrot Set With Orbits with Tobey Blomfield
+* \textbf{wheels.} with Rhea Wolski
+
+#### 29/08/2024  - Maths Talks Week Five (Sem Two)
+ * [Coinduction with Gabe Field](/assets/slides/2025/20250829_Gabe_Field.pdf)
+ * Vector Calculus without Vectors with Max Orchard
+
+#### 15/08/2025 - Maths Talks Week Three (Sem Two)
+ * [Semi-supervised learning with Nazeef Hamid](/assets/slides/2025/20250815_Nazeef%20Hamid.pdf)
+ * Half the Derivative, Double the Fun: A Brief Exploration of Fractional Calculus with Christian F. Risco
+
+#### 23/05/2025 - Maths Talks Week Twelve (Sem One)
+ * Applications of Delay with Rhuaidi Burke
+ * Isometries of Symmetric Spaces with Joseph Kwong
+
+#### 09/05/2025 - Maths Talks Week Ten (Sem One)
+ * [A Brief History of Groups with Isaac Beh](/assets/slides/2025/20250509_Isaac_Beh.pdf)
+ * The Power of Choice with Rhea Wolski
+
+#### 04/04/2025 - Maths Talks Week Six (Sem One)
+ * [Folding Spaces to Identify Holes with Simon Brims](/assets/slides/2025/20250404_Simon_Brims.pdf)
+ * Why Knot? Turning & Winding Through Knots via Grid Diagrams with Christian F. Risco
+
+#### 21/03/2025 - Maths Talks Week Four (Sem One)
+ * [A Rapid Introduction to Analytic Number Theory with Ryan Braiden](/assets/slides/2025/20250321_Ryan_Braiden.pdf)
+ * [A Practical Introduction to Benders Cuts with Allan Chuang](/assets/slides/2025/20250321_Allan_Chuang.pdf)
+
+#### 13/03/2025 - Maths Talks Week Three (Sem One)
+ * [Colouring Knots with Primes with Ed Hawkins](/assets/slides/2025/20250313_Ed_Hawkins.pdf)
+ * [How and Why to Program Your Proofs with Gabe Field](/assets/slides/2025/20250313_Gabe_Field.pdf)
+
 ## 2024
 
 #### 13/09/2024 - Maths Talks Week Eight (Sem Two)
