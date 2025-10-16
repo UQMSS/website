@@ -7,6 +7,10 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 
 ## 2025
 
+#### 12/09/2025 - Maths Talks Week Eleven (Sem Two)
+* Counting Diagrams from the Temperley-Lieb Algebras with Isaac Beh
+* A brief introduction to lattice-based cryptanalysis with Avery Armstrong
+
 #### 12/09/2025 - Maths Talks Week Seven (Sem Two)
 * [Building the Mandelbrot Set With Orbits with Tobey Blomfield](/assets/slides/2025/20251209_Tobey_Blomfield.pdf)
 * [\textbf{wheels.} with Rhea Wolski](/assets/slides/2025/20251209_Rhea_Wolski.pdf)
