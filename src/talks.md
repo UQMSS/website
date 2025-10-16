@@ -8,28 +8,28 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 ## 2025
 
 #### 12/09/2025 - Maths Talks Week Seven (Sem Two)
-* Building the Mandelbrot Set With Orbits with Tobey Blomfield
-* \textbf{wheels.} with Rhea Wolski
+* [Building the Mandelbrot Set With Orbits with Tobey Blomfield](/assets/slides/2025/20251209_Tobey_Blomfield.pdf)
+* [\textbf{wheels.} with Rhea Wolski](/assets/slides/2025/20251209_Rhea_Wolski.pdf)
 
 #### 29/08/2024  - Maths Talks Week Five (Sem Two)
  * [Coinduction with Gabe Field](/assets/slides/2025/20250829_Gabe_Field.pdf)
- * Vector Calculus without Vectors with Max Orchard
+ * [Vector Calculus without Vectors with Max Orchard](/assets/slides/2025/20250829_Max_Orchard.pdf)
 
 #### 15/08/2025 - Maths Talks Week Three (Sem Two)
  * [Semi-supervised learning with Nazeef Hamid](/assets/slides/2025/20250815_Nazeef%20Hamid.pdf)
- * Half the Derivative, Double the Fun: A Brief Exploration of Fractional Calculus with Christian F. Risco
+ * [Half the Derivative, Double the Fun: A Brief Exploration of Fractional Calculus with Christian F. Risco](/assets/slides/2025/20250815_Christian_Risco.pdf)
 
 #### 23/05/2025 - Maths Talks Week Twelve (Sem One)
- * Applications of Delay with Rhuaidi Burke
+ * [Applications of Delay with Rhuaidi Burke](/assets/slides/2025/20252305_Rhuaidi_Burke.pdf)
  * Isometries of Symmetric Spaces with Joseph Kwong
 
 #### 09/05/2025 - Maths Talks Week Ten (Sem One)
  * [A Brief History of Groups with Isaac Beh](/assets/slides/2025/20250509_Isaac_Beh.pdf)
- * The Power of Choice with Rhea Wolski
+ * [The Power of Choice with Rhea Wolski](/assets/slides/2025/20250509_Rhea_Wolski.pdf)
 
 #### 04/04/2025 - Maths Talks Week Six (Sem One)
  * [Folding Spaces to Identify Holes with Simon Brims](/assets/slides/2025/20250404_Simon_Brims.pdf)
- * Why Knot? Turning & Winding Through Knots via Grid Diagrams with Christian F. Risco
+ * [Why Knot? Turning & Winding Through Knots via Grid Diagrams with Christian F. Risco](/assets/slides/2025/20250404_Christian_Risco.pdf)
 
 #### 21/03/2025 - Maths Talks Week Four (Sem One)
  * [A Rapid Introduction to Analytic Number Theory with Ryan Braiden](/assets/slides/2025/20250321_Ryan_Braiden.pdf)
