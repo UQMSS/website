@@ -12,8 +12,8 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
 * A brief introduction to lattice-based cryptanalysis with Avery Armstrong
 
 #### 12/09/2025 - Maths Talks Week Seven (Sem Two)
-* [Building the Mandelbrot Set With Orbits with Tobey Blomfield](/assets/slides/2025/20251209_Tobey_Blomfield.pdf)
-* [\textbf{wheels.} with Rhea Wolski](/assets/slides/2025/20251209_Rhea_Wolski.pdf)
+* [Building the Mandelbrot Set With Orbits with Tobey Blomfield](/assets/slides/2025/20250912_Tobey_Blomfield.pdf)
+* [\textbf{wheels.} with Rhea Wolski](/assets/slides/2025/20250912_Rhea_Wolski.pdf)
 
 #### 29/08/2024  - Maths Talks Week Five (Sem Two)
  * [Coinduction with Gabe Field](/assets/slides/2025/20250829_Gabe_Field.pdf)
@@ -24,7 +24,7 @@ Below is a list of our recent talks. Math talks are typically held fortnightly i
  * [Half the Derivative, Double the Fun: A Brief Exploration of Fractional Calculus with Christian F. Risco](/assets/slides/2025/20250815_Christian_Risco.pdf)
 
 #### 23/05/2025 - Maths Talks Week Twelve (Sem One)
- * [Applications of Delay with Rhuaidi Burke](/assets/slides/2025/20252305_Rhuaidi_Burke.pdf)
+ * [Applications of Delay with Rhuaidi Burke](/assets/slides/2025/20250523_Rhuaidi_Burke.pdf)
  * Isometries of Symmetric Spaces with Joseph Kwong
 
 #### 09/05/2025 - Maths Talks Week Ten (Sem One)
