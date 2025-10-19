@@ -1,32 +1,32 @@
 [
 	{
-		"name": "Tobey Blomfield",
+		"name": "Ed Hawkins",
 		"title": "President",
-		"bio": "Hi, I'm Tobey. I'm in my second year of a Bachelor of Maths, majoring in pure mathematics. I love learning more maths, and I always like a nice proof or counter example. I'm also known for (and quite enjoy) pushing Desmos to it's limits.",
+		"bio": "I’m Ed, & I’ve just finished my second year of my pure mathematics degree. I am interested in knot theory, and really passionate about maths communication & the maths community, so come and talk because I love a chat with interesting people!",
+		"photo": "exec/Ed_Headshot_2025.png"
+	},
+	{
+		"name": "Tobey Blomfield",
+		"title": "Secretary",
+		"bio": "Hi, I'm Tobey. I'm in my third year of a Bachelor of Maths, majoring in pure mathematics. I love learning more maths, and I always like a nice proof or counter example. I'm also known for (and quite enjoy) pushing Desmos to it's limits.",
 		"photo": "exec/tobey.jpg"
 	},
 	{
-		"name": "Ben Varley",
-		"title": "Secretary",
-		"bio": "Hi, I'm Ben! I'm a fifth year Maths and Computer Science student with a focus on Applied Mathematics and Operations Research. I love cooking and playing board games with my free time.",
-		"photo": "exec/ben.jpg"
+		"name": "Rhea Wolski",
+		"title": "Treasurer",
+		"bio": "Hi, I'm Rhea. I'm a 4th year maths and physics student with a particular focus on algebra, and a public love of Zorn's Lemma. In my off time, I like to cook, read, write music and play tabletop games of all varieties.",
+		"photo": "exec/wolski.jpg"
 	},
 	{
 		"name": "Jasper Chong",
-		"title": "Treasurer",
-		"bio": "Hi I'm Jasper, a second year engineering and mathematics student with a focus on software and statistics. I really enjoy seeing all of the applications of mathematical modelling and prediction!",
+		"title": "Vice President",
+		"bio": "Hi I'm Jasper, a third year engineering and mathematics student with a focus on software and statistics. I really enjoy seeing all of the applications of mathematical modelling and prediction!",
 		"photo": "exec/jasper.jpg"
 	},
 	{
-		"name": "Max Orchard",
-		"title": "Vice President",
-		"bio": "Hi, I'm Max and I'm a first-year PhD student in mathematics. I enjoy softball, and also a little bit of hobby programming here and there. I don't enjoy when the vendo's cooling isn't working :(",
-		"photo": "exec/max.jpg"
-	},
-	{
-		"name": "Rhea Wolski",
+		"name": "Andy Liu",
 		"title": "Industry Liaison",
-		"bio": "Hi, I'm Rhea. I'm a 4th year maths and physics student with a particular focus on algebra, and a public love of Zorn's Lemma. In my off time, I like to cook, read, write music and play tabletop games of all varieties.",
-		"photo": "exec/wolski.jpg"
+		"bio": "Hi, I’m Andy. I’m a 3rd year student in a Bachelor of Mathematics/Music degree, and I consistently amazed by the structure, rigour and complexity that maths has to offer. I want to explore how maths can be used to model and train artificial intelligence to help us crack problems we couldn’t previously.",
+		"photo": "exec/Andy_Headshot_2025.png"
 	}
 ]
