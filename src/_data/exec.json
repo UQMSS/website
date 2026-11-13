@@ -2,18 +2,21 @@
 	{
 		"name": "Ed Hawkins",
 		"title": "President",
+		"pronouns": "Any/All",
 		"bio": "I’m Ed, & I’ve just finished my second year of my pure mathematics degree. I am interested in knot theory, and really passionate about maths communication & the maths community, so come and talk because I love a chat with interesting people!",
 		"photo": "exec/Ed_Headshot_2025.png"
 	},
 	{
 		"name": "Tobey Blomfield",
 		"title": "Secretary",
+		"pronouns": "He/Him",
 		"bio": "Hi, I'm Tobey. I'm in my third year of a Bachelor of Maths, majoring in pure mathematics. I love learning more maths, and I always like a nice proof or counter example. I'm also known for (and quite enjoy) pushing Desmos to it's limits.",
 		"photo": "exec/tobey.jpg"
 	},
 	{
 		"name": "Rhea Wolski",
 		"title": "Treasurer",
+		"pronouns": "She/They",
 		"bio": "Hi, I'm Rhea. I'm a 4th year maths and physics student with a particular focus on algebra, and a public love of Zorn's Lemma. In my off time, I like to cook, read, write music and play tabletop games of all varieties.",
 		"photo": "exec/wolski.jpg"
 	},
