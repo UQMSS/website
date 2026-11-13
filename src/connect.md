@@ -20,7 +20,7 @@ MSS exists for its members. We hold a range of events for anyone studying or int
 
 <div class="flex flex-wrap justify-center left-0 w-full">
 {%- for item in socials %}
-  <a href="{{ item.link }}" class="w-48 m-2 overflow-hidden bg-white rounded-lg shadow-lg !no-underline">
+  <a href="{{ item.link }}" class="w-full md:w-48 m-2 overflow-hidden bg-white rounded-lg shadow-lg !no-underline">
   	<div class="text-8xl text-center p-5 text-mss-blue">
       <i class="fab fa-{{ item.icon }} text-[80px]"></i>
     </div>
